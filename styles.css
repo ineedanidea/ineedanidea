@@ -10,3 +10,13 @@
   margin: 15px 20px;
   cursor: pointer;
 }
+
+.footer {
+  align-self: bottom;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 2rem;
+  background-color: white;
+}
+    
