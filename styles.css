@@ -16,7 +16,11 @@ height: 300px;
 }
 
 .footer {
-  align-self: bottom;
-  background: orange;
+  position:fixed;
+   left:0px;
+   bottom:0px;
+   height:30px;
+   width:100%;
+   background:#999;
 }
     
